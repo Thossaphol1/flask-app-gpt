@@ -4,12 +4,6 @@
 ```python
 import openai
 
-# Set your OpenAI API key
-import openai
-
-# Set your OpenAI API key
-openai.api_key = "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"
-
 # Define the text you want to analyze or interact with
 text = """หน้าตาน่ารักทำตาหัวใจ"""
 
